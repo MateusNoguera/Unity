@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/MateusN/Desktop/ProjetosUnity/Primeiro Projeto/Packages/manifest.json
+    m_FilePath: C:/Users/MateusN/Desktop/Unity/Primeiro Projeto/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638581586866768212
     m_Hash: 3086559985
   m_LockFileStatus:
-    m_FilePath: C:/Users/MateusN/Desktop/ProjetosUnity/Primeiro Projeto/Packages/packages-lock.json
+    m_FilePath: C:/Users/MateusN/Desktop/Unity/Primeiro Projeto/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -101,9 +101,20 @@ m_PackageAssets:
         - 2.0.0-preview.20
         - 2.0.0-preview.21
         - 2.0.0-preview.22
+        - 2.0.0
+        - 2.0.1
+        - 2.0.3
+        - 2.0.4
+        - 2.0.5
+        - 2.0.7
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
+        - 2.1.0
+        - 2.2.0
+        - 2.3.1
+        - 2.4.3
+        - 2.4.4
         compatible:
         - 1.3.9
         - 1.4.9
@@ -129,6 +140,8 @@ m_PackageAssets:
         - 2.0.0-preview.20
         - 2.0.0-preview.21
         - 2.0.0-preview.22
+        - 2.0.4
+        - 2.0.5
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
@@ -171,7 +184,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -221,6 +234,16 @@ m_PackageAssets:
         - 3.0.15
         - 3.0.16
         - 3.0.17
+        - 3.0.18
+        - 3.0.20
+        - 3.0.21
+        - 3.0.22
+        - 3.0.24
+        - 3.0.25
+        - 3.0.26
+        - 3.0.27
+        - 3.0.28
+        - 3.0.31
         compatible:
         - 1.0.2
         - 1.0.6
@@ -255,6 +278,16 @@ m_PackageAssets:
         - 3.0.15
         - 3.0.16
         - 3.0.17
+        - 3.0.18
+        - 3.0.20
+        - 3.0.21
+        - 3.0.22
+        - 3.0.24
+        - 3.0.25
+        - 3.0.26
+        - 3.0.27
+        - 3.0.28
+        - 3.0.31
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -294,7 +327,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -303,7 +336,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: 
+      type: asset
       description: Code editor integration for supporting Visual Studio as code editor
         for unity. Adds support for generating csproj files for intellisense purposes,
         auto discovery of installations, etc.
@@ -330,6 +363,11 @@ m_PackageAssets:
         - 2.0.14
         - 2.0.15
         - 2.0.16
+        - 2.0.17
+        - 2.0.18
+        - 2.0.20
+        - 2.0.21
+        - 2.0.22
         compatible:
         - 1.0.2
         - 1.0.3
@@ -350,7 +388,12 @@ m_PackageAssets:
         - 2.0.14
         - 2.0.15
         - 2.0.16
-        verified: 2.0.16
+        - 2.0.17
+        - 2.0.18
+        - 2.0.20
+        - 2.0.21
+        - 2.0.22
+        verified: 2.0.22
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -372,7 +415,7 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 1
+      hideInEditor: 0
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
@@ -389,7 +432,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -462,7 +505,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -513,6 +556,19 @@ m_PackageAssets:
         - 1.1.33
         - 1.3.0
         - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
         - 2.0.1-exp.1
         - 2.0.1-exp.2
         - 2.0.1-pre.12
@@ -527,6 +583,19 @@ m_PackageAssets:
         - 1.1.33
         - 1.3.0
         - 1.3.1
+        - 1.3.2
+        - 1.3.3
+        - 1.3.4
+        - 1.3.5
+        - 1.3.7
+        - 1.3.8
+        - 1.3.9
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        - 1.4.4
+        - 1.4.5
         - 2.0.1-exp.1
         - 2.0.1-exp.2
         - 2.0.1-pre.12
@@ -574,7 +643,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.textmeshpro@3.0.4
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.textmeshpro@3.0.4
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -583,7 +652,7 @@ m_PackageAssets:
         email: 
         url: 
       category: Text Rendering
-      type: 
+      type: asset
       description: 'TextMeshPro is the ultimate text solution for Unity. It''s the
         perfect replacement for Unity''s UI Text and the legacy Text Mesh.
 
@@ -689,20 +758,41 @@ m_PackageAssets:
         - 3.0.4
         - 3.0.5
         - 3.0.6
+        - 3.0.7
+        - 3.0.8
+        - 3.0.9
         - 3.2.0-pre.1
         - 3.2.0-pre.2
         - 3.2.0-pre.3
+        - 3.2.0-pre.4
+        - 3.2.0-pre.5
+        - 3.2.0-pre.6
+        - 3.2.0-pre.7
+        - 3.2.0-pre.8
+        - 3.2.0-pre.9
+        - 3.2.0-pre.10
         - 4.0.0-pre.1
+        - 4.0.0-pre.2
         compatible:
         - 3.0.1
         - 3.0.3
         - 3.0.4
         - 3.0.5
         - 3.0.6
+        - 3.0.7
+        - 3.0.8
+        - 3.0.9
         - 3.2.0-pre.1
         - 3.2.0-pre.2
         - 3.2.0-pre.3
-        verified: 3.0.6
+        - 3.2.0-pre.4
+        - 3.2.0-pre.5
+        - 3.2.0-pre.6
+        - 3.2.0-pre.7
+        - 3.2.0-pre.8
+        - 3.2.0-pre.9
+        - 3.2.0-pre.10
+        verified: 3.0.9
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -727,7 +817,7 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 1
+      hideInEditor: 0
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
@@ -744,7 +834,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.timeline@1.4.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -828,12 +918,24 @@ m_PackageAssets:
         - 1.6.2
         - 1.6.3
         - 1.6.4
+        - 1.6.5
         - 1.7.0-pre.1
         - 1.7.0-pre.2
         - 1.7.0
         - 1.7.1
         - 1.7.2
+        - 1.7.3
+        - 1.7.4
+        - 1.7.5
+        - 1.7.6
         - 1.8.0
+        - 1.8.1
+        - 1.8.2
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.8.6
+        - 1.8.7
         compatible:
         - 1.4.6
         - 1.4.7
@@ -860,12 +962,24 @@ m_PackageAssets:
         - 1.6.2
         - 1.6.3
         - 1.6.4
+        - 1.6.5
         - 1.7.0-pre.1
         - 1.7.0-pre.2
         - 1.7.0
         - 1.7.1
         - 1.7.2
+        - 1.7.3
+        - 1.7.4
+        - 1.7.5
+        - 1.7.6
         - 1.8.0
+        - 1.8.1
+        - 1.8.2
+        - 1.8.3
+        - 1.8.4
+        - 1.8.5
+        - 1.8.6
+        - 1.8.7
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -2721,7 +2835,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: C:\Users\MateusN\Desktop\ProjetosUnity\Primeiro Projeto\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\MateusN\Desktop\Unity\Primeiro Projeto\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2783,5 +2897,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/MateusN/Desktop/ProjetosUnity/Primeiro Projeto/Packages
+m_ProjectPath: C:/Users/MateusN/Desktop/Unity/Primeiro Projeto/Packages
 m_EditorVersion: 2020.3.2f1 (8fd9074bf66c)
