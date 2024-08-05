@@ -15,11 +15,11 @@ C:/Users/MateusN/Desktop/Unity/Primeiro Projeto
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55794
+55835
 Successfully changed project path to: C:/Users/MateusN/Desktop/Unity/Primeiro Projeto
 C:/Users/MateusN/Desktop/Unity/Primeiro Projeto
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 12.44 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 12.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,31 +35,31 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000977 seconds.
+Registered in 0.001063 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 12.90 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 14.12 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.570 seconds
+- Completed reload, in  0.628 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000394 seconds.
+Registered in 0.000444 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.16 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.432 seconds
+- Completed reload, in  0.450 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -71,29 +71,29 @@ System memory in use before: 57.2 MB.
 System memory in use after: 57.2 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
-Total: 1.324800 ms (FindLiveObjects: 0.132000 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.087400 ms  DeleteObjects: 0.066200 ms)
+Total: 0.993500 ms (FindLiveObjects: 0.076600 ms CreateObjectMapping: 0.018300 ms MarkObjects: 0.844500 ms  DeleteObjects: 0.052900 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Scenes/Segundo Level.unity
   artifactKey: Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Segundo Level.unity using Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab8b75f015d92dedced9d015c4aa3e5') in 0.007941 seconds
-  Import took 0.009225 seconds .
+Start importing Assets/Scenes/Segundo Level.unity using Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e3150c1627d462d23dbf342a3d85a5') in 0.007558 seconds
+  Import took 0.008850 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000148 seconds.
+  Time since last request: 151.415271 seconds.
+  path: Assets/Scenes/Segundo Level.unity
+  artifactKey: Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Segundo Level.unity using Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964e756fb1bc40a09ab54b7cf6ec1d9b') in 0.001890 seconds
+  Import took 0.003595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.137715 seconds.
   path: Assets/Scenes/Primeiro Level.unity
   artifactKey: Guid(afe2695c8ddc65d4fbb6fe6248f79623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Primeiro Level.unity using Guid(afe2695c8ddc65d4fbb6fe6248f79623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a8ccb1b6491e42ec88fff5550c9bf5') in 0.001513 seconds
-  Import took 0.002658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002103 seconds.
-  path: Assets/Scenes/Segundo Level.unity
-  artifactKey: Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Segundo Level.unity using Guid(bf789db130ae9cd46b79e08675aac7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab8b75f015d92dedced9d015c4aa3e5') in 0.002040 seconds
-  Import took 0.003299 seconds .
+Start importing Assets/Scenes/Primeiro Level.unity using Guid(afe2695c8ddc65d4fbb6fe6248f79623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0467071d28b5e4606afe8fcaf610b810') in 0.008385 seconds
+  Import took 0.009663 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
