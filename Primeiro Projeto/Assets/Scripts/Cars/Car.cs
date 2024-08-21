@@ -5,7 +5,7 @@ using UnityEngine;
 public class Car : MonoBehaviour
 {
     //em variáveis privadas usar _ antes do nome
-
+    [Header("Variáveis")]
     #region Variables
     public int door = 4;
 
@@ -14,6 +14,7 @@ public class Car : MonoBehaviour
 
     public bool canAcelerate = true;
 
+    [Header("Referências")]
     public GameObject MyObject;
     public Transform MyTransform;
     public Color Color = Color.black;
@@ -31,6 +32,11 @@ public class Car : MonoBehaviour
         canAcelerate = true;
     }
 
+    private void Awake()
+    {
+        //Debug.Log("Awake");
+    }
+
     #region Methods Unity
     // Start is called before the first frame update
     void Start()
@@ -38,12 +44,40 @@ public class Car : MonoBehaviour
         //transform.position = new Vector3(1, 0, 0);
         GetComponent<BoxCollider>().enabled = false;
         //ChangeColor();
+        //Debug.Log("Start");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        //Debug.Log("Update");
+    }
+
+    // LateUpdate is called after the update method
+    private void LateUpdate()
+    {
+        //Debug.Log("LateUpdate");
+    }
+
+    
+    private void FixedUpdate()
+    {
+        //Debug.Log("FixedUpdate");
+    }
+
+    private void OnEnable()
+    {
+        //Debug.Log("OnEnable");
+    }
+
+    private void OnDisable()
+    {
+        //Debug.Log("OnDisable");
+    }
+
+    private void OnDestroy()
+    {
+        //Debug.Log("OnDestroy");
     }
     #endregion
 }
