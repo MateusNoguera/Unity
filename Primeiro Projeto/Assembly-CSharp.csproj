@@ -56,10 +56,12 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Cars\Car.cs" />
     <Compile Include="Assets\Scripts\Animation_Module2.cs" />
     <Compile Include="Assets\Scripts\PrimeiroScript.cs" />
     <Compile Include="Assets\Scripts\CarAnimation.cs" />
-    <Compile Include="Assets\Scripts\Cars\Car.cs" />
+    <Compile Include="Assets\Scripts\Cars\Carv2.cs" />
+    <Compile Include="Assets\Scripts\Exercicio_Modulo03.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
